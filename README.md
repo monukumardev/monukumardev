@@ -1,4 +1,4 @@
-# Hi, I'm Monu Kumar 👋
+**#Hi, I'm Monu Kumar 👋
 
 **Full Stack Developer @ Reliance Jio**  
 Building scalable web platforms with **Django, React & Generative AI**
@@ -49,3 +49,4 @@ Building scalable web platforms with **Django, React & Generative AI**
 
 - 📍 Mumbai, India
 - 📧 roy.monu.2001@gmail.com
+**
